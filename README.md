@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Native Android Dev, Kotlin enthusiast, kinda like the smell of cinnamon
 <!--
 **beHqo/beHqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
